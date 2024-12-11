@@ -1,6 +1,6 @@
 # Excel Templates by Brandon Foltz
 
-Welcome to the repository for Excel templates featured on my YouTube channel, [@BrandonFoltz](https://www.youtube.com/@BrandonFoltz). Here, you can download various templates that I've created and demonstrated in my videos.
+Welcome to the repository for Excel templates featured on my YouTube channel [Brandon Foltz on YouTube](https://www.youtube.com/@BrandonFoltz). Here, you can download various templates I've created and demonstrated in my videos.
 
 ## Repository Structure
 
@@ -21,7 +21,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Contact
 
-For questions or feedback, feel free to reach out via the comments section on my YouTube channel, LinkedIn, or my website.
+If you have questions or feedback, feel free to contact me via the comments section on my YouTube channel, LinkedIn, or website.
 
 ## Support
 

@@ -1,4 +1,4 @@
-# Excel Templates by Brandon Foltz
+# File Downloads and Templates by Brandon Foltz
 
 Welcome to the repository for Excel templates featured on my YouTube channel [Brandon Foltz on YouTube](https://www.youtube.com/@BrandonFoltz). Here, you can download various templates I've created and demonstrated in my videos.
 
